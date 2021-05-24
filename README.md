@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kefd
-- 👀 I’m interested in ... [ Typescript, Next ]
-- 🌱 I’m currently learning ... [ Typescript, Next ]
+- 👀 I’m interested in ... [ Nextjs, Design Systems... ]
+- 🌱 I’m currently learning ... [ [Blueprintjs](https://blueprintjs.com/), [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) ]
 - 💞️ I’m looking to collaborate on ... [  ]
 - 📫 How to reach me ... [  ]
 
