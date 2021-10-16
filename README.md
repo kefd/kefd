@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola meu nome é Gabriel Geazim, atualmente sou <strong>programador</strong>.<br>
+  Ola meu nome é Gabriel Geazim, atualmente sou <strong>desenvolvedor</strong>.<br>
   Entusiasmado com novas tecnologias e esperançoso do futuro.
 </p>
 
